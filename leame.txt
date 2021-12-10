@@ -1,0 +1,6 @@
+#Curso
+https://www.youtube.com/watch?v=1kNwZbRiVcQ&t=2614s
+
+npm init -y
+npm install bootstrap
+
